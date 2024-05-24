@@ -716,12 +716,12 @@ void Hist() {
     system("cls");
     textColor(WHITE, _BLACK);
     printf("\n\n\t\t\tDungeon Crawler: A Jornada do Cavaleiro\n\n");
-    printf("\tNo reino de argo, um valente cavaleiro, Girotto, desafiou as ordens do rei em busca da verdade. Sua desobediencia resultou em sua prisao nas profundezas das masmorras do castelo.\n");
-    printf("\tDeterminado a provar sua inocencia e descobrir os segredos do rei, Girotto embarca em uma jornada epica para escapar das garras sombrias do labirinto subterraneo\n\n");
+    printf("\tNo reino de argo, um valente cavaleiro, desafiou as ordens do rei em busca da verdade. Sua desobediencia resultou em sua prisao nas profundezas das masmorras do castelo.\n");
+    printf("\tDeterminado a provar sua inocencia e descobrir os segredos do rei, o cavaleiro embarca em uma jornada epica para escapar das garras sombrias do labirinto subterraneo\n\n");
     printf("\tA primeira fase do jogo o coloca em um labirinto inicial, repleto de paredes e inimigos traicoeiros. Voce deve encontrar chaves e abrir caminho para fora dessa prisao opressiva\n\n");
     printf("\tNa segunda fase, a tensao aumenta quando um caçador impiedoso eh enviado pelo rei para capturar o cavaleiro fugitivo\n");
-    printf("\tAgora, alem de escapar dos perigos do labirinto, Girotto precisa evitar o olhar atento para espinhos e passagem secretas no caminho\n\n");
-    printf("\tFinalmente, na terceira fase, a verdade por tras das ordens do rei começa a se revelar a medida que Girotto se aventura mais fundo nas entranhas da masmorra.\n");
+    printf("\tAgora, alem de escapar dos perigos do labirinto, voce precisa evitar o olhar atento para espinhos e passagem secretas no caminho\n\n");
+    printf("\tFinalmente, na terceira fase, a verdade por tras das ordens do rei começa a se revelar a medida que o cavaleiro se aventura mais fundo nas entranhas da masmorra.\n");
     printf("\tEnfrentando desafios ainda maiores e monstros aterrorizantes, ele se aproxima do confronto final com o rei tirano.\n\n");
     printf("\tDungeon Crawler eh uma jornada emocionante atraves do perigo e da intriga, onde a coragem e a determinacao de um cavaleiro sao testadas ao maximo em sua busca por justica e liberdade\n\n");
 
